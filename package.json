@@ -1,0 +1,13 @@
+{
+  "name": "hyper-cursor-color",
+  "version": "0.1.0",
+  "description": "change cursor color",
+  "repository": "https://github.com/berkin/hyper-cursor-color",
+  "keywords": [
+    "hyper",
+    "hyper.app"
+  ],
+  "dependencies": {
+  },
+  "license": "MIT"
+}
